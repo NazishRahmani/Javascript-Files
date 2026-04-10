@@ -1,0 +1,25 @@
+/* img {
+     width: 200px;
+     height: 400px; 
+     object-fit: contain;
+     object-fit: cover;
+     object-position: 60%;
+     -webkit-mask-image: url(/HTML/Images/img_tree.png);
+     -webkit-mask-repeat: no-repeat;
+}  */
+
+* {
+     box-sizing: border-box;
+     padding: 0;
+     margin: 0;
+}
+
+.box {
+     width: 100vw;
+     height: 100vh;
+     border: 10px solid green;
+     background-image: url('/HTML/Images/IMG_20230928_232442_275.jpg');
+     background-size: cover;
+     background-position: center;
+     background-image-repeat: no-repeat;
+}

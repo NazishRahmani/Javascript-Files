@@ -1,0 +1,34 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+.container {
+     background-color: rgb(78, 186, 232);
+}
+
+.box {
+     display: inline-block;
+     border-radius: 20px;
+     width: 200px;
+     height: 200px;
+     background-color: red;
+     margin-bottom: 10px;
+     /* border: 5px solid black; */
+     box-sizing: border-box;
+     padding: 5px;
+     margin: 20px;
+}
+
+.box2 {
+     /* box-sizing: border-box;
+      */
+      border-radius: 10px;
+     padding: 20px;
+     width: 100%;
+     height: 50%;
+     border: 12px solid black;
+     background-color: #190ae3;
+
+}

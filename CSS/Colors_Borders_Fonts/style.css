@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+     margin: 0;
+     padding: 0;
+}
+
+.bg {
+     /* background-color: rgba(255, 0, 0, 1); */
+     /* background-color: #000; */
+     background-color: hsl(500, 60%, 57%);
+     color: rgb(104, 55, 55);
+     text-align: center;
+     /* border: 2px solid rgb(0, 0, 0);
+     border-style:double;
+     border-width: 10px; */
+     border: 2px solid black;
+}
+
+.bg {
+     font-family: "Edu AU VIC WA NT Pre", cursive;
+     font-weight: 500;
+
+}
